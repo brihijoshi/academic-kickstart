@@ -7,7 +7,7 @@ title = "Featured Talks"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 29
+weight = 100
 
 # View.
 #   1 = List

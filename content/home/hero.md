@@ -6,7 +6,7 @@ active = false  # Activate this widget? true/false
 title = "Academic"
 
 # Order that this section will appear in.
-weight = 3
+weight = 100
 
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
