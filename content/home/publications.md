@@ -11,14 +11,14 @@ subtitle = ""
 weight = 20
 
 # Number of publications to list.
-count = 10
+count = 1
 
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view = 2
+view = 3
 
 # Filter by publication type.
 # -1: Any
