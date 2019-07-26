@@ -13,7 +13,7 @@ role = "Junior Undergrad"
 organizations = [ { name = "IIIT Delhi", url = "http://iiitd.ac.in/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Loves interdisciplinary CS Research. Interests include Machine Learning, Computational Social Science and Computer Music."
+bio = "Passionate about CS + X Research where X = {Math, Creativity, Social Sciences}."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
