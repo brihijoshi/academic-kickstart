@@ -41,12 +41,26 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "Machine Learning"
+  tag = "ml"
+
+[[filter]]
+  name = "Creativity"
+  tag = "creativity"
+
+[[filter]]
+  name = "Computer Vision"
+  tag = "cv"
+
+[[filter]]
+  name = "NLP"
+  tag = "nlp"
 
 [[filter]]
   name = "Other"
-  tag = "Demo"
+  tag = "other"
+
+
 
 +++
 

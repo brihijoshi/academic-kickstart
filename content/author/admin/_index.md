@@ -6,7 +6,7 @@ name = "Brihi Joshi"
 superuser = true
 
 # Role/position
-role = "Junior Undergrad"
+role = "To-be Senior Undergrad"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -23,8 +23,8 @@ interests = [
   "Deep Learning",
   "Machine Learning",
   "Computational Social Science",
-  "Data Mining",
-  "Computer Music"
+  "Computer Music",
+  "Creative AI"
 ]
 
 # List qualifications (such as academic degrees)

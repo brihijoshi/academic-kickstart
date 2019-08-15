@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "External Project"
+title = "Task-specific ontology modelling"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2019-08-16T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "A flask chatbot developed from a curated ontology of the Airbnb dataset for easier search and of requested listings. "
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Demo"]
+tags = ["nlp"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+external_link = "https://github.com/justachetan/img2latex"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
