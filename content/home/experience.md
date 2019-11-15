@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = false  # Activate this widget? true/false
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -19,11 +19,11 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Intern"
+  company = "Snap Inc."
+  company_url = "https://research.snap.com/"
+  location = "Los Angeles, CA"
+  date_start = "2019-09-16"
   date_end = ""
   description = """
   Responsibilities include:
