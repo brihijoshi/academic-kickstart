@@ -80,8 +80,12 @@ interests = [
 
 I am mostly interested in working in Machine Learning, NLP and their applications for creativity. I am passionate about CS + X (Interdisciplinary) Research where X={Math, Creativity, Social Sciences}.
 
-I am currently interning with the Computational Social Science Team at [Snap Research, LA](https://research.snap.com/), where I am working on improving representation learning for event-centric long-form documents. At IIIT Delhi, I am currently working with [Prof. Tanmoy Chakraborty](https://www.iiitd.ac.in/tanmoy) in the [ Laboratory for Computational Social Systems (LCS2)](http://lcs2.iiitd.edu.in/), where I am exploring machine learning methods to capture user behaviour in OSNs such as _Twitter_ and _Reddit_. I also worked with [Prof. Timothy Scott Moyers Jr.](http://www.timmoyers.com/) in the Interdisciplinary Lab for Interactive AV Development (ILIAD Lab) on data sonification and building tools for creative AI for Music. 
+_I am currently looking for Research Internships for Summer 2020 (3 months, May-July) in these areas. Feel free to contact me if we have common research interests._
+
+
+I am currently interning with the Computational Social Science Team at [Snap Research, LA](https://research.snap.com/), where I am working on improving representation learning for event-centric long-form documents. At IIIT Delhi, I am working with [Prof. Tanmoy Chakraborty](https://www.iiitd.ac.in/tanmoy) in the [ Laboratory for Computational Social Systems (LCS2)](http://lcs2.iiitd.edu.in/), where I am exploring machine learning methods to capture user behaviour in OSNs such as _Twitter_ and _Reddit_. I have also worked with [Prof. Timothy Scott Moyers Jr.](http://www.timmoyers.com/) in the Interdisciplinary Lab for Interactive AV Development (ILIAD Lab) on data sonification and building tools for creative AI for Music. 
 
 Apart from pursuing my academic interests, I am mostly working for upliftment of women in technology. I co-lead the Delhi chapter of [Women Who Code Delhi](https://www.womenwhocode.com/delhi), which is an organisation that works towards diversity and inclusion of women in tech.
 
 I absolutely love singing and composing music. I've tried my hands at 3 instruments (and I plan to master some, explore more). Check out my SoundCloud profile for some late night amateur pieces!
+
